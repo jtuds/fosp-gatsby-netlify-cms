@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Working together to improve our park for everyone
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Friends of Scholes Park
+subheading: Working together to improve our park for everyone
 mainpitch:
   title: Why Kaldi
   description: >
